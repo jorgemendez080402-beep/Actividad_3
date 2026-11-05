@@ -1,0 +1,15 @@
+name: interfaz
+description: "Actividad_3"
+
+environment:
+  sdk: '^3.13.0'
+
+dependencies:
+  mqtt_client: ^10.3.0
+  flutter:
+    sdk: flutter
+  flutter_bluetooth_serial_plus: ^0.5.7
+  http: ^1.2.0
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.0
+  path: ^1.8.3
